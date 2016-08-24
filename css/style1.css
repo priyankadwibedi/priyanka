@@ -1,0 +1,18 @@
+div
+{
+   width:500px;
+   margin:auto;
+}
+body
+{
+  margin: auto;
+  background-color: grey;
+  font-family: sans-serif;
+}
+.quote1
+{
+  border-style: solid;
+  border-color: white;
+  text-align: center;
+  margin-left: 0;
+}
